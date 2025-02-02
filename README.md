@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning tensorflow, keras and microservice architecture for PLUSO 
 - 💞️ I’m looking to collaborate on Ai Agents on the blockchain
 - 📫 How to reach me ...hello@robertmccall.co.nz or visit www.pluso.co.nz
-- 😄 Pronouns: ...mini-me
+- 😄 Pronouns: ...robo is my nickname.
 - ⚡ Fun fact: ...you can create full stack apps with a chain of prompts. so cool.
 
 <!---
