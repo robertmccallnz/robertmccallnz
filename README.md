@@ -1,13 +1,15 @@
 👋 Hi, I’m @robertmccallnz
+Building AIAgents platform atm www.realaroha.com
 👀 I’m interested in AI / ML creations, especially for skin diseases.
 🌱 I’m currently learning TensorFlow, Keras, and microservice architecture for PLUSO.
 💞️ I’m looking to collaborate on AI Agents on the blockchain.
-📫 How to reach me: hello@robertmccall.co.nz or visit www.pluso.co.nz
+📫 How to reach me: hello@realarohs.com or visit www.reslaroha.com
 😄 Pronouns: Robo is my nickname.
 ⚡ Fun fact: You can create full stack apps with a chain of prompts. So cool.
 Projects and Achievements
-MxMate: An AI/ML app using TensorFlow, Keras, and Hugging Face transformers, currently being trained on a dataset of 156,000 images for dermatological disease. This project is very personal as I am undergoing treatment for melanoma and psoriasis. MxMate will be distributed as open source soon.
-Interests and Goals
+MxMate: An AI/ML app using TensorFlow, Keras, and Hugging Face transformers, currently being trained on a dataset of 156,000.
+AIAgent platform is my fovus right now - visit www.realaroha.com
+
 AI/ML Tech for Skin Diseases: Passionate about using AI/ML to improve dermatological health. Interested in collaborating with doctors and dermatologists to enhance the application's functionality.
 Blockchain and Data Security: Planning to add blockchain and encryption to MxMate to ensure data security and share profits with users who contribute photos.
 Voice Applications: Fascinated by voice applications and planning to explore this area soon.
